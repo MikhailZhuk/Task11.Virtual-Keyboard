@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.use-keyboard-input{
+  position: absolute;
+  top: 80px;
+  right: 30px;
+  width: calc(100vw - 80px);
+  height: 300px;
+  padding: 10px;
+}
